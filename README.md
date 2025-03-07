@@ -31,4 +31,9 @@ yc init
 ![image](https://github.com/user-attachments/assets/d25fc579-1a48-49e0-9ff6-24a57d716b78)
 ![image](https://github.com/user-attachments/assets/bb80b61a-d42d-42da-8d05-d4ffbe60fcdc)
 
+![image](https://github.com/user-attachments/assets/f5a24786-cb34-439c-88f4-a5f804d6924c)
+
+![image](https://github.com/user-attachments/assets/03487b6a-7f5d-4dfa-9a14-0b866f223ecb)
+
+![image](https://github.com/user-attachments/assets/18015219-e24f-49d6-854e-1fb785a8cac9)
 
