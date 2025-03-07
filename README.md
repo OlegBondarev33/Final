@@ -37,3 +37,22 @@ yc init
 
 ![image](https://github.com/user-attachments/assets/18015219-e24f-49d6-854e-1fb785a8cac9)
 
+Получаем данные облака командами
+
+- yc iam create-token
+- yc config get cloud-id
+- yc config get folder-id
+- vpc subnet list
+
+- Инициализируем терраформ terraform init
+- Создадим в дирректории terraform файл terraform.tfvars и наполнием его даными
+- yc_token = "YOUR_YC_TOKEN"
+- yc_cloud_id = "YOUR_CLOUD_ID"
+- yc_folder_id = "YOUR_FOLDER_ID"
+- yc_subnet_id = "YOUR_SUBNET_ID"
+- public_key_path = "~/.ssh/id_rsa.pub"
+- private_key_path = "~/.ssh/id_rsa"
+- Создадим виртуальную машину в облаке
+- terraform plan
+- terraform apply -auto-approve
+
