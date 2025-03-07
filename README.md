@@ -21,3 +21,14 @@
 - Для установки Ансибла сначала нужно установить питона
 
 ![image](https://github.com/user-attachments/assets/06ed46aa-281c-4bb4-a3a8-c06e73ac2772)
+
+Нужно было поключить CLI по инструкции от YANDEX CLOUD https://yandex.cloud/ru/docs/cli/quickstart#yandex-account_1
+
+yc init
+
+![image](https://github.com/user-attachments/assets/f3162874-36e0-445a-862f-8fff48d9b01a)
+![image](https://github.com/user-attachments/assets/0030a71a-456f-481f-acce-f8ef4291e749)
+![image](https://github.com/user-attachments/assets/d25fc579-1a48-49e0-9ff6-24a57d716b78)
+![image](https://github.com/user-attachments/assets/bb80b61a-d42d-42da-8d05-d4ffbe60fcdc)
+
+
