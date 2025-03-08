@@ -27,32 +27,31 @@
 yc init
 
 ![image](https://github.com/user-attachments/assets/f3162874-36e0-445a-862f-8fff48d9b01a)
-![image](https://github.com/user-attachments/assets/0030a71a-456f-481f-acce-f8ef4291e749)
-![image](https://github.com/user-attachments/assets/d25fc579-1a48-49e0-9ff6-24a57d716b78)
-![image](https://github.com/user-attachments/assets/bb80b61a-d42d-42da-8d05-d4ffbe60fcdc)
 
-![image](https://github.com/user-attachments/assets/f5a24786-cb34-439c-88f4-a5f804d6924c)
+- НАЧНЕМ
 
-![image](https://github.com/user-attachments/assets/03487b6a-7f5d-4dfa-9a14-0b866f223ecb)
+  Так выглядит структура:
 
-![image](https://github.com/user-attachments/assets/18015219-e24f-49d6-854e-1fb785a8cac9)
+  Project555/
+├── variables.tf
+├── providers.tf
+├── network.tf
+├── vms.tf
+├── outputs.tf
 
-Получаем данные облака командами
+Рассмотрим по отдельности
 
-- yc iam create-token
-- yc config get cloud-id
-- yc config get folder-id
-- vpc subnet list
+- variables.tf:
+-  ![image](https://github.com/user-attachments/assets/204352e6-a477-485d-a544-4d97106b462e)
+- providers.tf:
+-  ![image](https://github.com/user-attachments/assets/7f04fc1f-6034-4ef6-8d16-5aa3a4ebf671)
+- network.tf:
+-  ![image](https://github.com/user-attachments/assets/ee0a3b4e-1e98-487d-ac22-95d6cd8e4a73)
+- vms.tf:
+-  ![image](https://github.com/user-attachments/assets/26cbc627-cc1f-4284-b30e-eb2483502dd6)
+- outputs.tf:
+-  ![image](https://github.com/user-attachments/assets/4e3266a5-b50a-4016-912a-e0a62896e854)
 
-- Инициализируем терраформ terraform init
-- Создадим в дирректории terraform файл terraform.tfvars и наполнием его даными
-- yc_token = "YOUR_YC_TOKEN"
-- yc_cloud_id = "YOUR_CLOUD_ID"
-- yc_folder_id = "YOUR_FOLDER_ID"
-- yc_subnet_id = "YOUR_SUBNET_ID"
-- public_key_path = "~/.ssh/id_rsa.pub"
-- private_key_path = "~/.ssh/id_rsa"
-- Создадим виртуальную машину в облаке
-- terraform plan
-- terraform apply -auto-approve
+
+
 
