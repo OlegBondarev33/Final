@@ -58,6 +58,10 @@ yc init
 - ![image](https://github.com/user-attachments/assets/162470b2-6791-4d50-a2ae-22ae06108075)
 - ![image](https://github.com/user-attachments/assets/e7e5879f-3701-42cf-a991-285d7218311a)
 
+Bastion
+
+- ![image](https://github.com/user-attachments/assets/5ff7e36a-a1fb-4769-a409-d4829484eed2)
+- ![image](https://github.com/user-attachments/assets/21cf83b1-c735-464f-9d7e-93c94a27ab5f)
 
 
 
