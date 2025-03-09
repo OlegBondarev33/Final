@@ -103,3 +103,8 @@ yc init
 
 - ![image](https://github.com/user-attachments/assets/bf7de1cc-d50b-4708-acae-8e9a742e5f0a)
 
+## ZABIX
+
+- Создаем ВМ
+
+- ![image](https://github.com/user-attachments/assets/01724029-b3c2-4a47-96a4-9bfb88eb4fb4)
