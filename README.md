@@ -75,4 +75,8 @@ Bastion
 - ![image](https://github.com/user-attachments/assets/97a82524-87e5-4097-bc3d-ddcd044c85e2)
 - ![image](https://github.com/user-attachments/assets/e2f3d1d3-b875-4a7d-917b-e125a9b52327)
 
+Создадим Backend Group и настроим на target group
+
+- ![image](https://github.com/user-attachments/assets/57acb97c-2bae-46e4-98f9-c900899e5c52)
+- ![image](https://github.com/user-attachments/assets/1aeef05a-0df1-4e72-8e20-a6ffe525cf32)
 
