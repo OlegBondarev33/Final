@@ -58,29 +58,34 @@ yc init
 - ![image](https://github.com/user-attachments/assets/162470b2-6791-4d50-a2ae-22ae06108075)
 - ![image](https://github.com/user-attachments/assets/e7e5879f-3701-42cf-a991-285d7218311a)
 
-Bastion
+## Bastion
 
 - ![image](https://github.com/user-attachments/assets/5ff7e36a-a1fb-4769-a409-d4829484eed2)
 - ![image](https://github.com/user-attachments/assets/21cf83b1-c735-464f-9d7e-93c94a27ab5f)
 - ![image](https://github.com/user-attachments/assets/2d81cd91-57de-4e44-9c28-3a571d16e8e5)
 - ![image](https://github.com/user-attachments/assets/886c170f-d4f4-4268-93f4-bee3e92de20f)
 
-Подключимся через Бастион к нашим ВМ: (Команда: ssh -J ubuntu@<публичный_IP_бастиона> ubuntu@<внутренний_IP_ВМ>)
+## Подключимся через Бастион к нашим ВМ: (Команда: ssh -J ubuntu@<публичный_IP_бастиона> ubuntu@<внутренний_IP_ВМ>)
 
 - ![image](https://github.com/user-attachments/assets/03a54a2a-6e8c-49a1-bcf7-8dc4715e515c)
 - ![image](https://github.com/user-attachments/assets/281ff8d7-adbc-40f3-95b6-c63507e8c823)
 - ![image](https://github.com/user-attachments/assets/22fa1587-c319-420f-ab47-482eaf5c3ce6)
 
-Создадим Target_Group и включим в неё 2 созданных ВМ
+## Создадим Target_Group и включим в неё 2 созданных ВМ
 - ![image](https://github.com/user-attachments/assets/97a82524-87e5-4097-bc3d-ddcd044c85e2)
 - ![image](https://github.com/user-attachments/assets/e2f3d1d3-b875-4a7d-917b-e125a9b52327)
 
-Создадим Backend Group и настроим на target group
+## Создадим Backend Group и настроим на target group
 
 - ![image](https://github.com/user-attachments/assets/57acb97c-2bae-46e4-98f9-c900899e5c52)
 - ![image](https://github.com/user-attachments/assets/1aeef05a-0df1-4e72-8e20-a6ffe525cf32)
 - ![image](https://github.com/user-attachments/assets/879f2206-195c-4a82-a647-4f9e920bd77c)
 
-Создадим HTTP Router
+## Создадим HTTP Router
 
 - ![image](https://github.com/user-attachments/assets/eab800da-9405-4cbe-96f0-86a25a376f33)
+
+## Работа Балансировщика
+
+- ![image](https://github.com/user-attachments/assets/4fa4b5c7-c6fb-45ff-9f5a-fd294374ddb8)
+- ![image](https://github.com/user-attachments/assets/ced0f7c8-fb4c-4bbf-9f7a-42a12c98e758)
