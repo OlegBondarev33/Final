@@ -89,3 +89,17 @@ yc init
 
 - ![image](https://github.com/user-attachments/assets/4fa4b5c7-c6fb-45ff-9f5a-fd294374ddb8)
 - ![image](https://github.com/user-attachments/assets/ced0f7c8-fb4c-4bbf-9f7a-42a12c98e758)
+
+## Смотри логи балансировщика
+
+- ![image](https://github.com/user-attachments/assets/506f507d-73df-45ea-ae9b-75e7e8515e63)
+- ![image](https://github.com/user-attachments/assets/07bf3792-56e8-4b48-8aab-a3fafb5caf6d)
+
+## Мониторинг
+
+- ![image](https://github.com/user-attachments/assets/48c11f3a-8aeb-49e0-947a-c821dc71090f)
+
+## Карта балансироки
+
+- ![image](https://github.com/user-attachments/assets/bf7de1cc-d50b-4708-acae-8e9a742e5f0a)
+
