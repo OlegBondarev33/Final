@@ -85,6 +85,11 @@ yc init
 
 - ![image](https://github.com/user-attachments/assets/eab800da-9405-4cbe-96f0-86a25a376f33)
 
+## Создадим Балансировщик
+
+- ![image](https://github.com/user-attachments/assets/836c8efa-c986-4513-ab8d-31ac6f0c5420)
+
+
 ## Работа Балансировщика
 
 - ![image](https://github.com/user-attachments/assets/4fa4b5c7-c6fb-45ff-9f5a-fd294374ddb8)
